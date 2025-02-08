@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MatoušVávra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@matous_vavra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MatoušVávra) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/MatoušVávra](https://www.facebook.com/people/Matou%C5%A1-V%C3%A1vra/pfbid0GpyvqiY9Hrma52ye3qVNvkj4ZFhDja5ey75eq3y9g9CaiwjrHBBSb1KUXHq94Q7fl/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matous_vavra?ighs=bDF6b2s1b3FmNWxk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/MatoušVávra](https://www.linkedin.com/in/matou%C5%A1-v%C3%A1vra-988090274/)) 
 
 ## 💻 Tech Stack:
 
